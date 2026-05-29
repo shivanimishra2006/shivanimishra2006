@@ -18,8 +18,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shivanimishra2006
-          outputs: dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg
+          outputs: github-contribution-grid-snake.svg
+                  github-contribution-grid-snake-dark.svg
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
