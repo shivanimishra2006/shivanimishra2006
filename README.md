@@ -7,3 +7,8 @@
 
 - 🌱 GSSoC Contributor
 - 💻 GirlScript Summer of Code
+
+<img src="./gssoc-badge-rising_star.png" width= "100">
+<img src="./gssoc-badge-point_scorer.png" width= "100">
+<img src="./gssoc-badge-bounty_hunter.png" width= "100">
+<img src="./gssoc-badge-role_contributor.png" width= "100">
